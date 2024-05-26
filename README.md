@@ -16,8 +16,6 @@ When the build is completed you can execute the following statement
 ```bash
 ./run.sh
 ```
-This will start the project. For reference I did add an IntelliJ IDEA http file **sanitise-api.http** to see available
-tests which can be executed using that IDE. If the IDE is not available you could try some curl
-statements which is also left for reference.
 
-You can access the in memory database using the following url in your browser **http:localhost:8080/api/h2-console**
+Swagger docs is available at the following [location](http://localhost:8080/api/swagger-ui.html)
+You can access the in memory database using the following [url](http:localhost:8080/api/h2-console) in your browser
