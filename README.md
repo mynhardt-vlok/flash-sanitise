@@ -1,11 +1,11 @@
 # flash-sanitise
 This is a demo app to indicate the possibly of a sanitise restful api
                         
-##Requirements
+## Requirements
 
 This project needs Java 22 to run as well as the latest version of Maven.
 
-##How to run the project
+## How to run the project
 
 When the project is first checked out please execute the following statement
 ```bash
