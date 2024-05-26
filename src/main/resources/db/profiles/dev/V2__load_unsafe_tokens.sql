@@ -1,4 +1,4 @@
-insert into keyword(word)
+insert into sanitise_token(token)
 values
 ('ACTION'),
 ('ADD'),
